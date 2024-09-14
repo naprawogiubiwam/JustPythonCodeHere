@@ -29,7 +29,7 @@ def group_numbers(numbers):
     return grouped_numbers
 
 # Example usage
-image_path = 'C:\Users\15105\OneDrive - Contoso\Desktop\x.png'
+image_path = 'C:/image_pixel_coordinates_path'
 numbers = extract_numbers(image_path)
 grouped_numbers = group_numbers(numbers)
 
